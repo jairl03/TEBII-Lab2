@@ -1,1 +1,1 @@
-# TEBII-Lab2-Caracterizaci-n-de-un-sensor-de-presi-n-manom-trica
+# TEBII-Lab2-Caracterización-de-un-sensor-de-presión-manométrica
