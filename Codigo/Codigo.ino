@@ -8,7 +8,7 @@ const int SCK_PIN = 22;
 // Constantes configurables iniciales (Etapa C)
 const float P_atm = 101.325; // Presión atmosférica local en kPa (actualizar con dato del SENAMHI)
 const float V_0 = 1.00;      // Volumen inicial de la jeringa en mL
-const float V_m = 0.60;      // Volumen muerto inicial provisional en mL (menor entre Va1 y Va2)
+const float V_m = 0.76;      // Volumen muerto inicial provisional en mL (menor entre Va1 y Va2)
 const float P_max = 35.0;    // Presión máxima de seguridad en kPa
 
 // Número constante de lecturas a promediar (N >= 20)
